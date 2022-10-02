@@ -163,9 +163,9 @@ http://127.0.0.1:6878/ace/getstream?id=d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 http://127.0.0.1:6878/ace/getstream?id=b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal #Ellas
 http://127.0.0.1:6878/ace/getstream?id=107acd31600d0fdcdbac2065171c39042f3369c7
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Oviedo VS Cartagena HD_M
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Real Madrid VS Osasuna HD_M
 http://127.0.0.1:6878/ace/getstream?id=6f29350d83ab43eccebaecb6cf2daa887aec9cf6
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,OvOviedo VS Cartagena_HD_M
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Real Madrid VS Osasuna HD_
 http://127.0.0.1:6878/ace/getstream?id=b50b55c657ffc05414d1341d9e0c1b7f941d1f9a
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,TeleCirco 1080
 http://127.0.0.1:6878/ace/getstream?id=cbf281d5e481697aa4184fe1de5e069928c95057
