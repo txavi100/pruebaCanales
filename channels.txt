@@ -77,6 +77,10 @@ http://127.0.0.1:6878/ace/getstream?id=d475208e72b5a343080afa0724c7b7c42264b9a0
 http://127.0.0.1:6878/ace/getstream?id=1000c018cf4afb7357f10e438e966d23340e4295
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,Liga Smartbank HD
 http://127.0.0.1:6878/ace/getstream?id=68b79de12b9b370bdfa74de65f0696a9b61503ed
+#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,Barsa VS Villareal 1080
+http://127.0.0.1:6878/ace/getstream?id=b5214a3b7fbf158bdd1a6ee317417cba7c6af13d
+#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,Barsa Villareal 720
+http://127.0.0.1:6878/ace/getstream?id=b3838f8e9b0e4115eac182bd02ec99c7d1b10f58
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,Barcelona - Villarreal 
 http://127.0.0.1:6878/ace/getstream?id=8a72010856f27010d03b0e763f4a3d6f02842179
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga Tv Bar 1080
