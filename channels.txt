@@ -43,8 +43,6 @@ http://127.0.0.1:6878/ace/getstream?id=dfe2be8e254ceb5b2bd990b9d9877ebcc01e51da
 http://127.0.0.1:6878/ace/getstream?id=26fde3b656ab412ce1bea40f20bb45d67c519013
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,LA LIGA
 http://127.0.0.1:6878/ace/getstream?id=87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,LIGA M_HD
-http://127.0.0.1:6878/ace/getstream?id=08c830da1f7c5c8897d81dd4f80dbc9d0587a94c
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,LaLiga_720 
 http://127.0.0.1:6878/ace/getstream?id=d8512e64f34a117afb656f5c66cf8d88023c9570
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,LIGA 
@@ -65,6 +63,8 @@ http://127.0.0.1:6878/ace/getstream?id=b373a2d2aa4d1aeb7e0d7fcdbe2ce28edf35bb13
 http://127.0.0.1:6878/ace/getstream?id=bb9ec0db8db136f4fcd8986b8681048e2bd95bf1
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,LIGA DE CAMPEONES 4
 http://127.0.0.1:6878/ace/getstream?id=297fab10d7364ca1991fa43fcff469573688ce7a
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,LIGA CAMPEONES 2 M_HD
+http://127.0.0.1:6878/ace/getstream?id=08c830da1f7c5c8897d81dd4f80dbc9d0587a94c
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 720
